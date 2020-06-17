@@ -4,9 +4,8 @@ Coffee Machine written on Python :)
 import sys
 
 class CoffeeMachine:
-
     
-
+    
     def __init__(self, water, milk, coffee_beans, disposable_cups, money):
         self.water = water
         self.milk = milk
